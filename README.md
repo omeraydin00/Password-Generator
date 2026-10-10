@@ -1,8 +1,9 @@
-# Day #2
+# Password Generator
 
-### Password Generator
+A password generator in plain HTML, CSS and JavaScript.
 
-I am gonna showing to you how to build a Password Generator with javascript. this pass generator also have different options to manage password creation❗️
+<img alt="Password Generator" src="screenshot.png" />
 
-Screenshot:
-https://i.hizliresim.com/gvpbfht.jpg
+Choose a length between 1 and 30 and which characters to use: lowercase and uppercase letters, numbers, symbols and spaces. You can also leave out repeated characters. The bar under the password shows how strong it is, and one click copies it.
+
+Open `index.html` in a browser to use it; there is nothing to install.
